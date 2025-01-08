@@ -2,9 +2,43 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 html, body{
     height: 100%;
     width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+}
+
+#nav{
+    height: 80px;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 28px;
+    padding: 0px 30px;
+}
+
+#nav h4{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.ri-shopping-bag-line{
+    color: #ffffff;
+    background-color: black;
+    padding: 12px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 24px;
+    width: 24px; */
 }
