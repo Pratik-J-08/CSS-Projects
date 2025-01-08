@@ -42,3 +42,10 @@ html, body{
     /* height: 24px;
     width: 24px; */
 }
+
+.herotxt{
+    font-size: 72px;
+    font-weight: 500;
+    padding: 24px 80px;
+    line-height: 80px;
+}
