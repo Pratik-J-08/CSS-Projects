@@ -49,3 +49,26 @@ html, body{
     padding: 24px 80px;
     line-height: 80px;
 }
+
+
+.herosecondary{
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-between;
+    margin: 40px 80px;
+}
+
+
+.subtxt{
+    width: 50%;
+    font-size: 20px;
+    color: #9b9b9b;
+    font-weight: 300;
+    line-height: 28px;
+}
+
+.links{
+width: 30%;
+}
+
+
